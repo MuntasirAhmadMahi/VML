@@ -1,0 +1,4 @@
+- `Color.Green` on VehicleCardView's due-description doesn't look good
+- use isDue method (working)
+- task deleting not working (working)
+- increase 6 char to 7 or 8 char (in odometer field)

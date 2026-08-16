@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VML:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VML_jar</output-path>
+    <root id="archive" name="VML.jar">
+      <element id="module-output" name="VML" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf-extras/3.7.2/flatlaf-extras-3.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/weisj/jsvg/2.1.0/jsvg-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/lgooddatepicker/LGoodDatePicker/11.2.1/LGoodDatePicker-11.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.7.2/flatlaf-3.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
